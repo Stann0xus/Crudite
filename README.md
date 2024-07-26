@@ -82,10 +82,11 @@ dotnet run
 http://localhost:5068/swagger
 ```
 
-5. Inicie o frontend:
+5. Instale e Inicie o frontend:
 
 ```bash
 cd crudit
+npm install
 npm start
 ```
 
