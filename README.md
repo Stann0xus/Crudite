@@ -2,7 +2,7 @@
 ### README.md
 <img src="./crudite.png" alt="Crudite Logo" width="64" height="89" align="left" />
 # Crudite
-é uma aplicação CRUD RESTful API para o cadastro de pessoas, utilizando C# no backend com ASP.NET Core 8.0 e Entity Framework, e um banco de dados MySQL. O frontend é desenvolvido em React.
+é uma API RESTful do tipo CRUD para o cadastro de pessoas, utilizando C# no backend com ASP.NET Core 8.0 e Entity Framework, e um banco de dados MySQL. O frontend é desenvolvido em React.
 
 ## Funcionalidades
 
