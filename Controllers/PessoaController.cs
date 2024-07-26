@@ -81,7 +81,7 @@ namespace Crudite.Controllers
             return pessoas;
         }
 
-        // Emissão de relatórios (exemplo: CSV)
+        // Emissão de relatórios para CSV
         [HttpGet("report")]
         public IActionResult GetReport()
         {

@@ -6,12 +6,14 @@ namespace Crudite.Controllers
     [ApiController]
     public class StatusController : ControllerBase
     {
+        // Responde Status do Backend
         [HttpGet("status")]
         public IActionResult GetStatus()
         {
             return Ok("Backend funcionando");
         }
 
+        // Responded Status do Banco de Dados
         [HttpGet("dbstatus")]
         public IActionResult GetDbStatus()
         {

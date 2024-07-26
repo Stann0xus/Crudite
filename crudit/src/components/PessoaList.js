@@ -6,10 +6,25 @@ const PessoaList = () => {
     const [pessoas, setPessoas] = useState([]);
     const [nome, setNome] = useState('');
     const navigate = useNavigate();
+    const [backendStatus, setBackendStatus] = useState('Carregando...');
+    const [dbStatus, setDbStatus] = useState('Carregando...');
 
     useEffect(() => {
         fetchPessoas();
+        checkStatuses();
     }, []);
+
+    const checkStatuses = () => {
+        // Verificar o status do backend
+        api.get('/api/Status/status')
+            .then(response => setBackendStatus(response.data))
+            .catch(error => setBackendStatus('Erro ao verificar o status do backend'));
+
+        // Verificar o status do banco de dados
+        api.get('/api/Status/dbstatus')
+            .then(response => setDbStatus(response.data))
+            .catch(error => setDbStatus('Erro ao verificar o status do banco de dados'));
+    };
 
     const fetchPessoas = () => {
         api.get('/api/Pessoa')
@@ -72,6 +87,11 @@ const PessoaList = () => {
                     </li>
                 ))}
             </ul>
+            <div>
+                <h3>Status do Sistema</h3>
+                <p><strong>Backend:</strong> {backendStatus}</p>
+                <p><strong>Banco de Dados:</strong> {dbStatus}</p>
+            </div>
         </div>
     );
 };
