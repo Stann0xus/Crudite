@@ -56,6 +56,9 @@ git clone https://github.com/SEU_USUARIO/Crudite.git
 cd Crudite
 ```
 
+IMPORTANTE!
+1.1. Edite os arquivos CruditeDB.sql e `appsettings.json` com Usuários/Senhas correspondentes
+
 2. Execute o script SQL:
 
 ```bash
