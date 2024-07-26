@@ -1,0 +1,6 @@
+@Crudite_HostAddress = http://localhost:5068
+
+GET {{Crudite_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
