@@ -79,7 +79,7 @@ dotnet run
 4. Acesse a documentação da API no navegador:
 
 ```
-https://localhost:7059/swagger
+https://localhost:5068/swagger
 ```
 
 5. Inicie o frontend:
