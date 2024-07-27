@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "A:\\Programming\\Crudite\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3AD322FB-2C83-4427-AE01-2EB6A857A28C}|Crudite.csproj|a:\\programming\\crudite\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3AD322FB-2C83-4427-AE01-2EB6A857A28C}|Crudite.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{3AD322FB-2C83-4427-AE01-2EB6A857A28C}|Crudite.csproj|a:\\programming\\crudite\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{3AD322FB-2C83-4427-AE01-2EB6A857A28C}|Crudite.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3AD322FB-2C83-4427-AE01-2EB6A857A28C}|Crudite.csproj|a:\\programming\\crudite\\models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3AD322FB-2C83-4427-AE01-2EB6A857A28C}|Crudite.csproj|solutionrelative:models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3AD322FB-2C83-4427-AE01-2EB6A857A28C}|Crudite.csproj|a:\\programming\\crudite\\crudit\\src\\services\\api.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3AD322FB-2C83-4427-AE01-2EB6A857A28C}|Crudite.csproj|solutionrelative:crudit\\src\\services\\api.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AD322FB-2C83-4427-AE01-2EB6A857A28C}|Crudite.csproj|a:\\programming\\crudite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AD322FB-2C83-4427-AE01-2EB6A857A28C}|Crudite.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3AD322FB-2C83-4427-AE01-2EB6A857A28C}|Crudite.csproj|a:\\programming\\crudite\\controllers\\statuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,16 +23,28 @@
       "RelativeMoniker": "D:0:0:{3AD322FB-2C83-4427-AE01-2EB6A857A28C}|Crudite.csproj|solutionrelative:controllers\\pessoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{3AD322FB-2C83-4427-AE01-2EB6A857A28C}|Crudite.csproj|a:\\programming\\crudite\\crudit\\src\\components\\pessoaform.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3AD322FB-2C83-4427-AE01-2EB6A857A28C}|Crudite.csproj|solutionrelative:crudit\\src\\components\\pessoaform.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3AD322FB-2C83-4427-AE01-2EB6A857A28C}|Crudite.csproj|a:\\programming\\crudite\\crudit\\src\\components\\pessoalist.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{3AD322FB-2C83-4427-AE01-2EB6A857A28C}|Crudite.csproj|solutionrelative:crudit\\src\\components\\pessoalist.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AD322FB-2C83-4427-AE01-2EB6A857A28C}|Crudite.csproj|a:\\programming\\crudite\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3AD322FB-2C83-4427-AE01-2EB6A857A28C}|Crudite.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3AD322FB-2C83-4427-AE01-2EB6A857A28C}|Crudite.csproj|a:\\programming\\crudite\\crudit\\src\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{3AD322FB-2C83-4427-AE01-2EB6A857A28C}|Crudite.csproj|solutionrelative:crudit\\src\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3AD322FB-2C83-4427-AE01-2EB6A857A28C}|Crudite.csproj|a:\\programming\\crudite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3AD322FB-2C83-4427-AE01-2EB6A857A28C}|Crudite.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3AD322FB-2C83-4427-AE01-2EB6A857A28C}|Crudite.csproj|a:\\programming\\crudite\\crudit\\src\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3AD322FB-2C83-4427-AE01-2EB6A857A28C}|Crudite.csproj|solutionrelative:crudit\\src\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AD322FB-2C83-4427-AE01-2EB6A857A28C}|Crudite.csproj|a:\\programming\\crudite\\models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AD322FB-2C83-4427-AE01-2EB6A857A28C}|Crudite.csproj|solutionrelative:models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3AD322FB-2C83-4427-AE01-2EB6A857A28C}|Crudite.csproj|a:\\programming\\crudite\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,11 +58,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "A:\\Programming\\Crudite\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "A:\\Programming\\Crudite\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACAAAABtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-07-27T10:17:59.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PessoaForm.js",
+              "DocumentMoniker": "A:\\Programming\\Crudite\\crudit\\src\\components\\PessoaForm.js",
+              "RelativeDocumentMoniker": "crudit\\src\\components\\PessoaForm.js",
+              "ToolTip": "A:\\Programming\\Crudite\\crudit\\src\\components\\PessoaForm.js",
+              "RelativeToolTip": "crudit\\src\\components\\PessoaForm.js",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-27T10:35:48.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "api.js",
+              "DocumentMoniker": "A:\\Programming\\Crudite\\crudit\\src\\services\\api.js",
+              "RelativeDocumentMoniker": "crudit\\src\\services\\api.js",
+              "ToolTip": "A:\\Programming\\Crudite\\crudit\\src\\services\\api.js",
+              "RelativeToolTip": "crudit\\src\\services\\api.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-27T10:31:39.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.js",
+              "DocumentMoniker": "A:\\Programming\\Crudite\\crudit\\src\\App.js",
+              "RelativeDocumentMoniker": "crudit\\src\\App.js",
+              "ToolTip": "A:\\Programming\\Crudite\\crudit\\src\\App.js",
+              "RelativeToolTip": "crudit\\src\\App.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAACzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-26T21:18:10.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Pessoa.cs",
               "DocumentMoniker": "A:\\Programming\\Crudite\\Models\\Pessoa.cs",
               "RelativeDocumentMoniker": "Models\\Pessoa.cs",
@@ -54,51 +122,50 @@
               "RelativeToolTip": "Models\\Pessoa.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T21:10:50.286Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-26T21:10:50.286Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "PessoaList.js",
               "DocumentMoniker": "A:\\Programming\\Crudite\\crudit\\src\\components\\PessoaList.js",
               "RelativeDocumentMoniker": "crudit\\src\\components\\PessoaList.js",
               "ToolTip": "A:\\Programming\\Crudite\\crudit\\src\\components\\PessoaList.js",
               "RelativeToolTip": "crudit\\src\\components\\PessoaList.js",
-              "ViewState": "AQIAADcAAAAAAAAAAADwv18AAAAGAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF4AAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2024-07-26T21:05:57.095Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "index.js",
               "DocumentMoniker": "A:\\Programming\\Crudite\\crudit\\src\\index.js",
               "RelativeDocumentMoniker": "crudit\\src\\index.js",
               "ToolTip": "A:\\Programming\\Crudite\\crudit\\src\\index.js",
               "RelativeToolTip": "crudit\\src\\index.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2024-07-26T21:05:14.017Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "A:\\Programming\\Crudite\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "A:\\Programming\\Crudite\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACIAAAAXAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABAAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-26T20:48:41.728Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
               "DocumentMoniker": "A:\\Programming\\Crudite\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -111,7 +178,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "DataContext.cs",
               "DocumentMoniker": "A:\\Programming\\Crudite\\Data\\DataContext.cs",
               "RelativeDocumentMoniker": "Data\\DataContext.cs",
@@ -119,12 +186,11 @@
               "RelativeToolTip": "Data\\DataContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T20:46:17.091Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-26T20:46:17.091Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "StatusController.cs",
               "DocumentMoniker": "A:\\Programming\\Crudite\\Controllers\\StatusController.cs",
               "RelativeDocumentMoniker": "Controllers\\StatusController.cs",
@@ -137,13 +203,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "PessoaController.cs",
               "DocumentMoniker": "A:\\Programming\\Crudite\\Controllers\\PessoaController.cs",
               "RelativeDocumentMoniker": "Controllers\\PessoaController.cs",
               "ToolTip": "A:\\Programming\\Crudite\\Controllers\\PessoaController.cs",
               "RelativeToolTip": "Controllers\\PessoaController.cs",
-              "ViewState": "AQIAAEAAAAAAAAAAAAAcwFMAAAApAAAA",
+              "ViewState": "AQIAADgAAAAAAAAAAAAwwFMAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-26T20:44:36.778Z",
               "EditorCaption": ""

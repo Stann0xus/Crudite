@@ -26,28 +26,33 @@ const PessoaList = () => {
             .catch(error => setDbStatus('Erro ao verificar o status do banco de dados'));
     };
 
+        // Listagem de Pessoas
     const fetchPessoas = () => {
         api.get('/api/Pessoa')
             .then(response => setPessoas(response.data))
             .catch(error => console.error(error));
     };
 
+        // Excluir Pessoa
     const handleDelete = (id) => {
         api.delete(`/api/Pessoa/${id}`)
             .then(() => setPessoas(pessoas.filter(pessoa => pessoa.idPessoa !== id)))
             .catch(error => console.error(error));
     };
 
+        // Atualizar Pessoa
     const handleEdit = (id) => {
         navigate(`/edit/${id}`);
     };
 
+        // Filtrar Pessoas pelo Nome
     const handleFilter = () => {
         api.get(`/api/Pessoa/filter?nome=${nome}`)
             .then(response => setPessoas(response.data))
             .catch(error => console.error(error));
     };
 
+        // Emitir Relatório CSV
     const handleDownload = () => {
         api.get('/api/Pessoa/report', {
             responseType: 'blob', // importante para trabalhar com dados binários

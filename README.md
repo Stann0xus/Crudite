@@ -35,6 +35,15 @@ Certifique-se de que você tenha um servidor MySQL em execução e atualize a st
 }
 ```
 
+> **_Atenção:_**  Dependedendo de como as Portas estão configuradas no .NET talvez seja necessário alterar a URL do Backend em ./crudit/src/services/api.js
+```
+...
+const api = axios.create({
+    baseURL: 'http://localhost:5068',       <<<<
+});
+...
+```
+
 ### Configuração do Script SQL
 
 Edite o arquivo `CruditeDB.sql` com as informações correspondentes à configuração do banco de dados no projeto e execute-o no MySQL para criar o usuário, a senha e o banco de dados adequados.

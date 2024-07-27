@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Crudite")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+49708e2df564b6a265c1b2a155c5ebcf5728dd8e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae16a03834ce061c3c4a8b4efa418d435d8cd207")]
 [assembly: System.Reflection.AssemblyProductAttribute("Crudite")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Crudite")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
