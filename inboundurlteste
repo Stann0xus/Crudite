@@ -1,0 +1,6 @@
+<Response>
+	<Message>
+		<Body>Mensagem Recebida :undefined. Esta mensagem aqui partiu de um WebHook Fake e a partir da estrutura de dados do corpo HTML do mesmo, uma <Message> é enviada como <Response> dentro de um Body>. Atualmente, este formato RAW está hospedado em um repositório do GitHub público.
+	Este exemplo foi criado por Henrique Stanke em 02-04-2025 para demonstração de um exemplo e não deve ser utilizada para ambientes de desenvolvimento.</Body>
+	</Message>
+</Response>
